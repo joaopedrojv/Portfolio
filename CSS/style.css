@@ -4,6 +4,8 @@ body{
 .titulo{
     text-align: center;
     color: white;
+    background-color: blue;
+    padding: 10px;
 }
 .png01{
     text-align: center;
@@ -12,4 +14,16 @@ body{
 .texto{
     text-align: center;
     color: white;
+}
+.t01{
+    background-color: blue;
+    padding: 10px;
+}
+.t02{
+    background-color: blue;
+    padding: 10px;
+}
+.t03{
+    background-color: blue;
+    padding: 10px;
 }
